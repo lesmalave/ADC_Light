@@ -1,0 +1,6 @@
+Usar un template Vacio
+
+Seguir las instrucciones e uso del kit del display CY8CKIT-028-TFT
+
+https://infineon.github.io/CY8CKIT-028-TFT/html/index.html
+
